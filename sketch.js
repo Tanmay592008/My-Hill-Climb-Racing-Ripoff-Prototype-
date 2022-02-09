@@ -127,6 +127,7 @@ textSize(12)
 
 text("NOTE: This is a prototype,and not completed",700,50)
 text("I am working for the finished product",700,65)
+text("Use wasd keys to move",700,80)
 
 gamestate = play
 
